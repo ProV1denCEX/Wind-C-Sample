@@ -1,0 +1,11 @@
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\bin\Debug\WindCSharpNewSample.exe
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\bin\Debug\WindCSharpNewSample.pdb
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.csprojResolveAssemblyReference.cache
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.WindQuantCSharpSycSample.resources
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.Form2.resources
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.Form3.resources
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.Form4.resources
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.Properties.Resources.resources
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.csproj.GenerateResource.Cache
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.exe
+E:\C#学习\WindCSharpNewSample\WindCSharpNewSample\obj\Debug\WindCSharpNewSample.pdb
